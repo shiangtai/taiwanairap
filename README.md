@@ -1,5 +1,7 @@
 # taiwanairap
 
+Example of Chat/MCP/Agent using Taiwan AI RAP API.
+
 Minimal examples of building an LLM chat agent with tool-calling over the
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), using
 [NCHC's Taiwan AI Cloud GenAI Portal](https://portal.genai.nchc.org.tw/)
